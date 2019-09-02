@@ -1,11 +1,9 @@
 {
   "name": "faceit-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A thin wrapper around Faceit.com API",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/philliplakis/faceit-js.git"
